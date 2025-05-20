@@ -1,8 +1,12 @@
 # BankerAI-InvestMatch Dashboard
 
+![Screenshot 2025-05-20 022207](https://github.com/user-attachments/assets/ca49531d-5787-49e1-b869-cedc6249ef4a)
+
+![Screenshot 2025-05-20 022251](https://github.com/user-attachments/assets/6ff82486-bbf0-469c-a022-8f1653d8fc92)
+
 ## Project Overview
 
-This repository contains a prototype dashboard for the BankerAI and InvestMatch platforms - an AI-powered solution for democratizing investment banking services for lower and middle market companies.
+This repository contains a prototype dashboard for the BankerAI and InvestMatch platforms - an AI-powered solution for democratizing investment banking services for lower and middle-market companies.
 
 ### Core Components
 
